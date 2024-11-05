@@ -1,0 +1,1 @@
+select * from frnds where name = 'shyam' and age < 30;
